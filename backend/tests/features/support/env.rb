@@ -1,0 +1,9 @@
+require 'capybara'
+require 'capybara/dsl'
+require 'capybara/rspec/matchers'
+require 'capybara/rspec/matcher_proxies'
+require 'selenium-webdriver'
+require 'rspec'
+require 'site_prism'
+require 'faker'
+require "httparty"
