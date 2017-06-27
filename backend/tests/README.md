@@ -1,11 +1,11 @@
 Backend - Correios
 
-Frontend - Login
 #Passos para execução e observações:
 
 #Passos para execução:
 
-Abrir a pasta referente à "frontend" no editor de texto.
+Abrir a pasta referente à "backend" no editor de texto.
+ "../backend/tests"
 
 ##Executar o comando Bundle install##
 
