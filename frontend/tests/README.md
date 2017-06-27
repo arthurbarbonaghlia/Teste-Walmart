@@ -38,9 +38,10 @@ Para executar os testes basta acessar via linha de comando(cmd) no projeto a pas
       - Também pode ser gerado um relatório .JSON
         (Para escolher qual o o tipo de relatório à ser gerado (HTML ou JSON) deve ir no arquivo "../tests/cucumber.YML" e escolher qual o tipo e alterar na linha "default".
         
- Fico a disposição para quaisquer esclareciemtos.
+ Fico a disposição para quaisquer esclarecimentos.
  
  arthur.barbonaghlia@gmail.com
+ 
  tel:11 98640-2435
     
     
