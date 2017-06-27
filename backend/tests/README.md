@@ -5,7 +5,7 @@ Backend - Correios
 #Passos para execução:
 
 Abrir a pasta referente à "backend" no editor de texto.
- "../backend/tests"
+ -  "../backend/tests"
 
 ##Executar o comando Bundle install##
 
