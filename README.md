@@ -11,9 +11,13 @@ Automacao Backend e Frontend
         - Dentro de cada uma delas terá instruções como executar os testes dos projetos.
         
 Preparação(requisitos) de ambiente:
+
 1 - Ruby instalado;
+
 2 - Devkit instalado;
+
 3 - Navegador Firefox
      Opcionais (chrome e IE)
+     
 4 - Editor de texto (Visual Studio, Sublime, etc).
     
