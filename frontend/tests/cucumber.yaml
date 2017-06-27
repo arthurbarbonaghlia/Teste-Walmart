@@ -1,6 +1,6 @@
 ## YAML Template
 ---
-default: --format progress -p json -p firefox
+default: --format progress -p html -p firefox
 # ci: --format progress -p html -p headless
 html: --format html --out=results/report.html
 json: --format json --out=results/report.json
