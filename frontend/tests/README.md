@@ -5,8 +5,8 @@ Frontend - Login
 #Passos para execução:
 
 
-
 Abrir a pasta referente à "frontend" no editor de texto.
+  - "../frontend/tests"
 
   ##Executar o comando Bundle install##
   
