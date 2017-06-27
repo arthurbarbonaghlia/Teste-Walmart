@@ -36,7 +36,7 @@ Para executar os testes basta acessar via linha de comando(cmd) no projeto a pas
    
     - Após a execução dos testes, será gerado um documento .HTML (está como padrão) onde conterá o resultado da execução com os cenários que passaram e falaram e as evidências no fim de cada cenário de testes. Para acessar, deve acessar o caminho "../frontend/tests/results/report.html.
       - Tmabém pode ser gerado um relatório .JSON
-        (Para escolher qual o o tipo de relatório à ser gerado (HTML ou JSON) deve ir no arquivo "../tests/cucumber.YML" e escolher qual o tipo.
+        (Para escolher qual o o tipo de relatório à ser gerado (HTML ou JSON) deve ir no arquivo "../tests/cucumber.YML" e escolher qual o tipo e alterar na linha "default".
         
  Fico a disposição para quaisquer esclareciemtos.
  
