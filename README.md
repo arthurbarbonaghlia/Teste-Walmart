@@ -17,6 +17,7 @@ Preparação(requisitos) de ambiente:
 2 - Devkit instalado;
 
 3 - Navegador Firefox
+
      Opcionais (chrome e IE)
      
 4 - Editor de texto (Visual Studio, Sublime, etc).
